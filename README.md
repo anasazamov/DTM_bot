@@ -3,4 +3,4 @@
 This bot integrate with mandat.dtm.uz 
 ## Feature 
 
-[] View exam result
+- [x] View exam result
